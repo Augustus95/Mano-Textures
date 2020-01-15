@@ -32,9 +32,7 @@ This work is the inverse version of Appearance decoder，which generates stylize
 Results
 =========================
 **MANO-texture dataset** 
-<center class="half">
-    <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif" width="200"/>
-</center>
+![]("https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif)
 
 **Appearance decoder**
 
