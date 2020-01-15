@@ -15,9 +15,9 @@ Usage
 **MANO-texture dataset**
 
 Over 50 different [textures](https://github.com/JenathanHoo/Mano-Textures) for Mano model, where each mano-texture file includes： 
-- **hand_[id].mtl**: material library file for this mano-texture model.   
-- **texture_[id].png**: 2048x2048 texture image for this mano-texture model.  
-- **hand_[id].obj**: random mano pose obj file with this mano-texture for immediate visualization.
+- **hand_id.mtl**: material library file for this mano-texture model.   
+- **texture_id.png**: 2048x2048 texture image for this mano-texture model.  
+- **hand_id.obj**: random mano pose obj file with this mano-texture for immediate visualization.
 
 **Appearance decoder** 
 
