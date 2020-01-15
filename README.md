@@ -35,6 +35,11 @@ Results
 
 
 **Appearance decoder**
+
 [updating]
 
 **Neural hand app generation**
+<center class="half">
+    <img src="https://github.com/JenathanHoo/Mano-Textures/tree/master/imgs/in.png" width="90"/>
+</center>
+
