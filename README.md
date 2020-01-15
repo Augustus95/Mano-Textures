@@ -32,7 +32,7 @@ This work is the inverse version of Appearance decoder，which generates stylize
 Results
 =========================
 **MANO-texture dataset** 
-![]("https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif)
+![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif)
 
 **Appearance decoder**
 
@@ -40,7 +40,7 @@ Results
 
 **Neural hand app generation**
 
-![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in1.jpg) ![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out1.gif)
+![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in1.jpg)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out1.gif)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out3.gif)
 
 
 
