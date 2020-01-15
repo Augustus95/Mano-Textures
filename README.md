@@ -40,6 +40,6 @@ Results
 
 **Neural hand app generation**
 <center class="half">
-    <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in.jpg" width="90"/>
+    <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in.jpg" width="90"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out1.gif" width="90"/>
 </center>
 
