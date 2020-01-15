@@ -36,7 +36,7 @@ Results
 
 ![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif)
 
-![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/no_bg.png)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/mask.png)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/render.png)
+![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r1.png)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r2.png)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r3.png)
 
 **Appearance decoder**
 
