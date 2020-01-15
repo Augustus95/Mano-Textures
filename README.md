@@ -27,6 +27,7 @@ This work learns hand pose、shape and appearance from a single image with diffe
 **Neural hand app generation** 
 
 This work is the inverse version of Appearance decoder，which generates stylized hands with arbitrary image input and can be used in many VR/AR applications.
+- **code usage**: code coming soon.
 
 Results
 =========================
