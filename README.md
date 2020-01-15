@@ -13,6 +13,7 @@ Feature
 Usage
 =========================
 **MANO-texture** dataset 
+
 Over 50 different textures for Mano model， where each mano-texture file includes： 
 - **hand_[id].mtl**: material library file for our mano-texture model.   
 - **texture_[id].png**: 2048x2048 texture image for our mano-texture model.  
@@ -25,7 +26,7 @@ This work learns hand pose、shape and appearance from a single image with diffe
 
 **Neural hand app generation** 
 
-This work is the inverse version of **Appearance decoder**， which generates stylized hands with arbitrary image input and can be used in many VR/AR applications.
+This work is the inverse version of Appearance decoder，which generates stylized hands with arbitrary image input and can be used in many VR/AR applications.
 
 Results
 =========================
