@@ -7,5 +7,5 @@ Feature
 =========================
 - **Dataset**： different textures for [Mano](https://mano.is.tue.mpg.de/) model.
 - **Appearance decoder**: learning hand pose、shape and appearance from a single image with differentiable renderer.
-- **Neural hand app generation**：generate stylized hands for VR/AR application.
+- **Neural hand app generation**：generating stylized hands for VR/AR application.
 
