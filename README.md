@@ -48,7 +48,7 @@ Results
 
 **Appearance decoder**
 
-[coming soon]()
+[coming soon](https://github.com/JenathanHoo/Mano-Textures)
 
 
 Links
