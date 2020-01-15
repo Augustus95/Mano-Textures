@@ -51,7 +51,7 @@ Results
 
 Links
 =========================
-[1] Official Website of MANO: [https://mano.is.tue.mpg.de.](https://mano.is.tue.mpg.de)
-[2] Official Website of SMPL: [http://smpl.is.tue.mpg.de.](http://smpl.is.tue.mpg.de)
-[3] Official Website of SMPLify: [http://smplify.is.tue.mpg.de.](http://smplify.is.tue.mpg.de)
+[1] Official Website of MANO: [https://mano.is.tue.mpg.de.](https://mano.is.tue.mpg.de) 
+[2] Official Website of SMPL: [http://smpl.is.tue.mpg.de.](http://smpl.is.tue.mpg.de) 
+[3] Official Website of SMPLify: [http://smplify.is.tue.mpg.de.](http://smplify.is.tue.mpg.de) 
 
