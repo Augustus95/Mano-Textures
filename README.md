@@ -22,12 +22,12 @@ Over 50 different textures for Mano model, where each mano-texture file includes
 **Appearance decoder** 
 
 This work learns hand pose、shape and appearance from a single image with differentiable renderer, with the help of over 500k images dataset rendered from digitalizated Mano-textures and deep CNN. 
-- **code usage**: code coming soon.
+- **code usage**: [code](https://github.com/JenathanHoo/Mano-Textures) coming soon.
 
 **Neural hand app generation** 
 
 This work is the inverse version of Appearance decoder，which generates stylized hands with arbitrary image input and can be used in many VR/AR applications.
-- **code usage**: code coming soon.
+- **code usage**: [code](https://github.com/JenathanHoo/Mano-Textures) coming soon.
 
 Results
 =========================
