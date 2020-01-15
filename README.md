@@ -34,7 +34,7 @@ Results
 
 **MANO-texture dataset** 
 
-![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r4.gif)
+![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r00.gif)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r01.gif)
 
 ![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r1.png)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r2.png)![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/r3.png)
 
