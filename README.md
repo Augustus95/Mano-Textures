@@ -49,5 +49,9 @@ Results
  <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out1.gif" width="140"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in1.jpg" width="140"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out3.gif" width="140"/>
 
 
-
+Links
+=========================
+[1] Official Website of MANO: [https://mano.is.tue.mpg.de.](https://mano.is.tue.mpg.de)
+[2] Official Website of SMPL: [http://smpl.is.tue.mpg.de.](http://smpl.is.tue.mpg.de)
+[3] Official Website of SMPLify: [http://smplify.is.tue.mpg.de.](http://smplify.is.tue.mpg.de)
 
