@@ -31,6 +31,7 @@ This work is the inverse version of Appearance decoder，which generates stylize
 
 Results
 =========================
+
 **MANO-texture dataset** 
 ![](https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif)
 
