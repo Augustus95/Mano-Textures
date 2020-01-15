@@ -40,13 +40,15 @@ Results
 
 
 
-**Appearance decoder**
-
-[updating]
 
 **Neural hand app generation**
 
  <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out1.gif" width="140"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in1.jpg" width="140"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out3.gif" width="140"/>
+
+
+**Appearance decoder**
+
+[updating]
 
 
 Links
