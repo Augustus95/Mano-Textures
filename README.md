@@ -48,7 +48,7 @@ Results
 
 **Appearance decoder**
 
-[updating]
+[coming soon]
 
 
 Links
