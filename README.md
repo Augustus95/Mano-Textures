@@ -12,7 +12,7 @@ Feature
 
 Usage
 =========================
-**MANO-texture** dataset 
+**MANO-texture dataset**
 
 Over 50 different textures for Mano model, where each mano-texture file includes： 
 - **hand_[id].mtl**: material library file for our mano-texture model.   
