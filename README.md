@@ -35,6 +35,7 @@ Results
 <center class="half">
     <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/233.gif" width="200"/>
 </center>
+
 **Appearance decoder**
 
 [updating]
