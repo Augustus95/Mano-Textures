@@ -18,4 +18,19 @@ Over 50 different textures for Mano model， where each mano-texture file includ
 - **texture_[id].png**: 2048x2048 texture image for our mano-texture model.  
 - **hand_[id].obj**: random mano pose obj file with our mano-texture.
 
+**Appearance decoder**
+This work learns hand pose、shape and appearance from a single image with differentiable renderer, with the help of over 500k images dataset rendered from digitalizated Mano-textures and deep CNN. 
+- **code usage**: code coming soon.
 
+**Neural hand app generation**
+This work is the inverse version of **Appearance decoder**， which generates stylized hands with arbitrary image input and can be used in many VR/AR applications.
+
+Results
+=========================
+**MANO-texture** dataset 
+
+
+**Appearance decoder**
+[updating]
+
+**Neural hand app generation**
