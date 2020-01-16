@@ -45,6 +45,7 @@ Results
 
  <img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out1.gif" width="140"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/in1.jpg" width="140"/><img src="https://github.com/JenathanHoo/Mano-Textures/blob/master/imgs/out3.gif" width="140"/>
 
+[code](https://github.com/JenathanHoo/Mano-Textures) coming soon.
 
 **Appearance decoder**
 
